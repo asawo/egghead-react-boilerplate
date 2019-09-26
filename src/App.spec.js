@@ -6,6 +6,6 @@ import App from './App'
 
 describe('App', () => {
   it('Runs and passes', () => {
-    render(<App/>)
+    render(<App />)
   })
 })
